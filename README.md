@@ -22,7 +22,7 @@
 | `git ignore`                          |Fichier pour spécifier les fichiers à ignorer par Git.                       |
 | `git pull`                            |Récupère et fusionne les modifications du référentiel distant.               | 
 | `git fetch`                           |Récupère les mises à jour sans les fusionner.                                |
-| `git fetch`                           |prune vous permet de nettoyer votre copie locale en supprimant cette branche.|
+| `git fetch --prune`                   |vous permet de nettoyer votre copie locale en supprimant cette branche.|
 ---
 
 ## 💻 **Raccourcis VS Code**
