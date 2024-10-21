@@ -18,10 +18,10 @@
 | `git merge [branch-name]`             | Fusionne une branche dans l'actuelle                          |
 | `git log`                             | Affiche l'historique des commits                              |
 | `git reset --hard [commit]`           | Réinitialise à un commit précédent                            |
-|git stash                              |Sauvegarde temporairement les modifications non engagées.      |
-|gitignore                              |Fichier pour spécifier les fichiers à ignorer par Git.         |
-|git pull                               |Récupère et fusionne les modifications du référentiel distant.|
-|git fetch                              |Récupère les mises à jour sans les fusionner.                 |
+| `git stash`                           |Sauvegarde temporairement les modifications non engagées.      |
+| `git ignore`                          |Fichier pour spécifier les fichiers à ignorer par Git.         |
+| `git pull`                            |Récupère et fusionne les modifications du référentiel distant. |
+| `git fetch`                           |Récupère les mises à jour sans les fusionner.                  |
 ---
 
 ## 💻 **Raccourcis VS Code**
