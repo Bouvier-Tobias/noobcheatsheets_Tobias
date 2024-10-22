@@ -59,13 +59,16 @@ td {
     color: #fff;
 }
 
+
+
 th {
     background-color: #ff7d00;
     font-size: 20px;
-    font-weight: Çs00;
+    font-weight: 700;
     color: black;
     font-family: kanit, sans-serif;
     font-style: italic;
+    text-decoration: underline;
     background: rgb(176, 0, 141);
     background: linear-gradient(90deg, rgba(176, 0, 141, 1) 10%, rgba(0, 16, 255, 1) 100%);
 }
@@ -124,13 +127,12 @@ h1::before {
 
 @keyframes fill-text {
 
-    10%,
-    100% {
+    0% {
         width: 0;
     }
 
     70%,
-    90% {
+    100% {
         width: 100%;
     }
 }
